@@ -18,7 +18,7 @@ const Promotion = require("./models/Promotion");
 const boom = require("@hapi/boom");
 const { createTransport } = require("nodemailer");
 
-require("dotenv").config();
+// require("dotenv").config();
 
 // const sendEmail = require("../Backend/utilis/sendEmail");
 
